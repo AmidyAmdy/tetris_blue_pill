@@ -77,11 +77,13 @@
 
 <img width="815" height="489" alt="image" src="https://github.com/user-attachments/assets/073466ea-9c9f-4cca-96af-d13a56d7c05b" />
 
-#Результат работы
+
+# Результат работы
 
 <img width="699" height="501" alt="image" src="https://github.com/user-attachments/assets/a79c8919-7d72-4b17-8a06-f1e97c0ba421" />
 <img width="704" height="521" alt="image" src="https://github.com/user-attachments/assets/7f5e25cd-af37-45cb-be26-94f2995bf1fe" />
 <img width="707" height="500" alt="image" src="https://github.com/user-attachments/assets/1c92b5f5-6647-4230-b5e2-c4ecd69d8d28" />
 
-#Автор
+
+# Автор
 Дмитрий Филатов, 2025
